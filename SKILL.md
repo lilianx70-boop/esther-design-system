@@ -3,7 +3,6 @@ name: lilian-design-system
 description: 夏夏的个人IP设计系统。做HTML页面、个人网站、教程页面、介绍页面、landing page等任何前端设计时自动触发。包含品牌DNA和多个场景子规范。
 author: 夏夏 (lilianX)
 license: CC BY-NC-SA 4.0
-repo: https://github.com/esthersjw/esther-design-system
 ---
 
 > 本设计系统为Lilian个人定制，仅限个人自媒体创作使用，遵循CC BY-NC-SA 4.0协议,使用本 Skill 需署名原作者(ESTHER不二 (esthersjw))，禁止商用，修改后须以相同协议分享。
